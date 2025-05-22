@@ -4,7 +4,7 @@ This is a solution to the [Crowdfunding product page challenge on Frontend Mento
 
 ## Overview
 
-Users is able to:
+Users are able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
